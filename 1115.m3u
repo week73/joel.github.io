@@ -1,0 +1,104 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj22&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkj52&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.jpg.cm/2021/09/14/Is7g5e.png" group-title="港澳台",天映频道
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.jpg.cm/2021/10/08/Ivo3pz.png" group-title="港澳台",龙翔时代
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.jpg.cm/2021/10/08/IvoCau.png" group-title="港澳台",玮来电影
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
+#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港澳台",壹新闻
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",三立新闻
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="港澳台",年代新闻
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天映频道
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="港澳台",壹新闻
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港澳台",三立新闻
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台",非凡新闻
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="港澳台",非凡新闻
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twffxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港澳台",民视新闻
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbsxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS HD
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twtvbs&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="港澳台",东森电影
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="港澳台",龙祥电影
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",卫视电影
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳台",卫视电影
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwsdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚电影
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳台",美亚电影
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twmydy
+#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="港澳台",纬来电影
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwlty&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="港澳台",纬来体育
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwlty
+
+#EXTINF:-1 group-title="港澳台" tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台视
+rtmp://161.202.204.248:1935/sat/tv071
+
+#EXTINF:-1 group-title="港澳台" tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png",中视
+rtmp://161.202.204.248:1935/sat/tv091
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视
+rtmp://161.202.204.248:1935/sat/tv111
+#EXTINF:-1 group-title="港澳台" tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png",TVBS新闻台
+rtmp://161.202.204.248/sat/tv551
+#EXTINF:-1 group-title="港澳台" tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png",TVBS欢乐台
+rtmp://161.202.204.248/sat/tv421
+#EXTINF:-1 group-title="港澳台" tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="港澳台",纬来日本
+rtmp://161.202.204.248:1935/sat/tv521
+#EXTINF:-1 group-title="港澳台" tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png",纬来育乐
+rtmp://161.202.204.248/sat/tv701
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png",纬来体育台
+rtmp://161.202.204.248/sat/tv721
+#EXTINF:-1 group-title="体育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg",Eleven体育一台
+rtmp://161.202.204.248:1935/sat/tv731
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png",ELEVEN体育二台
+rtmp://161.202.204.248:1935/sat/tv741
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png",ELEVEN体育二台
+rtmp://161.202.204.248/sat/md021
+#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
+rtmp://161.202.204.248:1935/sat/tv571
+#EXTINF:-1 group-title="港澳台" tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png",东森超视
+rtmp://161.202.204.248/sat/tv771
+#EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/09/14/Is7vxw.png" group-title="港澳台",momo综合台
+rtmp://161.202.204.248/sat/tv761
+
